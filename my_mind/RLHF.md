@@ -12,8 +12,7 @@
 
 [解析 RLHF 微调三阶段](https://www.53ai.com/news/qianyanjishu/1742.html)
 
-
-
+[【强化学习的数学原理】课程：从零开始到透彻理解（完结）](https://www.bilibili.com/video/BV1sd4y167NS/?spm_id_from=333.788.videopod.episodes&vd_source=cd4121ae5573fd5dd16005c659b91084&p=2)
 
 
 # GRPO
@@ -23,11 +22,6 @@
 [DeepSeek关键RL算法GRPO，有人从头跑通了，贡献完整代码](https://www.jiqizhixin.com/articles/2025-03-02-3)
 
 [The Hundred-Page Language Models Book](https://github.com/aburkov/theLMbook)
-
-
-
-
-
 
 # 自原则批判微调SPCT[自原则批判微调DS](https://www.infoq.cn/article/4aWp47YEqtAJzJf9E5yb)
 
